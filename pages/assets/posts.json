@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "locale": "en-US",
+      "title": "Sample Title For the First Blog Post in English",
+      "description": "This is the first blog post in English published on the blog",
+      "image": "https://source.unsplash.com/GnvurwJsKaY/1600x900"
+    },
+    {
+      "locale": "en-US",
+      "title": "Sample Title For the Second Blog Post in English",
+      "description": "This is the second blog post in English published on the blog",
+      "image": "https://source.unsplash.com/8XddFc6NkBY/1600x900"
+    },
+    {
+      "locale": "es-ES",
+      "title": "Título de ejemplo para la primera entrada en español del blog",
+      "description": "Esta es la primera entrada del blog en español publicada en el blog",
+      "image": "https://source.unsplash.com/0gkw_9fy0eQ/1600x900"
+    },
+    {
+      "locale": "es-ES",
+      "title": "Título de ejemplo para la segunda entrada en español del blog",
+      "description": "Esta es la segunda entrada del blog en español publicada en el blog",
+      "image": "https://source.unsplash.com/q10VITrVYUM/1600x900"
+    },
+    {
+      "locale": "it-IT",
+      "title": "Titolo di esempio per il primo post in italiano del blog",
+      "description": "Questo è il primo post in italiano pubblicato nel blog",
+      "image": "https://source.unsplash.com/xG8IQMqMITM/1600x900"
+    }
+  ]
+}
