@@ -2,7 +2,7 @@ import { useRouter } from "next/router"
 import Link from "next/link";
 import styles from "../styles/Home.module.css"
 import blogPosts from "./assets/posts.json"
-import BlogCard from "./components/BlogCard";
+import BlogCard from "../src/components/BlogCard";
 
 function Home() {
     const { locale, locales, asPath } = useRouter()
