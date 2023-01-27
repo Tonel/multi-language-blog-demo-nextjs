@@ -1,5 +1,4 @@
 import styles from "./BlogCard.module.css";
-
 function BlogCard( props ) {
     const {blogPost} = props
 
